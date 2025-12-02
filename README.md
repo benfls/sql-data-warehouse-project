@@ -51,7 +51,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/data_catalog.md).
+For more details, refer to [docs/data_catalog.md](docs/data_catalog.md).
 
 ## 📂 Repository Structure
 ```
